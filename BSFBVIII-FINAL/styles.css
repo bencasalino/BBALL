@@ -1,0 +1,86 @@
+
+.nav {
+
+	max-width: 100%;
+}
+
+
+.body {
+	background-color:  #cccccc ;
+}
+
+
+.navbar-brand {
+
+}
+
+
+.row {
+
+	background-color: ;
+}
+
+.white {
+	background-color: ;
+}
+
+.black {
+	background-color: black;
+	color:white;
+	} 
+.blue {
+	background-color: #0353A2;
+}
+
+.red {
+
+	background-color: #CD2B2F;
+}
+
+
+.p {
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+
+.text
+{
+	color:white;
+}
+
+
+.container-fluid {
+
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+.centered{
+    margin: 0 auto;
+}
+
+
+
+
+.teams {
+display: inline-block;
+
+
+}
+
+
+
+
+
+.arrow-down { 
+color:red;
+}
+
+
+
+.arrow-up { 
+color:green;
+}
